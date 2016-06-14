@@ -1,0 +1,27 @@
+@media (max-width: 319px){  
+ 
+    //banner
+    //======
+    .banner-panel{
+        .btn-signup, .btn-about{
+            padding:10px 15px;
+            margin:0 5px;
+            display: block;
+            margin-bottom:8px;
+        }
+    }   
+    //partners
+    //========
+    .partners{
+        li{
+            width:100%;
+        }
+    }
+    
+    //pricing-panel
+    //============
+    .pricing-panel{
+        padding:50px 0;
+    }
+//end
+}
